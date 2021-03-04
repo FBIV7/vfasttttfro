@@ -59,13 +59,6 @@ const Services = () => {
           style={{ marginBottom: "20px" }}
         >
           </div>
-          {/* <i className="fa fa-child fa-5x  circle"></i>
-          <h3 className="fontColor font-serif">Bride/Groom Verification</h3>
-          <p className=" font-sans">
-            We always advice our customers to check the credibility of
-            bride/groom and their families before making a realtionship for life
-          </p>
-        </div> */}
       </div>
     </div>
   );
